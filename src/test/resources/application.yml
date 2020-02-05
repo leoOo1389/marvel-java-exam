@@ -1,0 +1,7 @@
+
+marvel-api:
+  config:
+    ts: 1580509839
+    apiKey: 9734f28553d7a122f1bb9e75c9fe6dc7
+    hash: 627156470307b0e924b70546855e5462
+  comics-path: https://gateway.marvel.com/v1/public/comics
