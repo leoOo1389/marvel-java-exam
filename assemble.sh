@@ -4,7 +4,7 @@ set -o nounset
 
 build_api(){
     echo "Fetching changes"
-    git pull origin develop;
+    git pull origin master;
     echo "Building"
     mvn clean package -DskipTests;
     echo "Finish build_api"
